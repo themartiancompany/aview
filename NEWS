@@ -1,0 +1,4 @@
+News since version 1.2
+  - Turned to automake
+  - Bugfixes
+  - Compilation fixed on glibc2 based systems
