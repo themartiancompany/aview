@@ -5,6 +5,7 @@
 /* version 0.3 */
 /* Modified for aaflip version 1.0 by Jan Hubicka*/
 
+#include <ctype.h>
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
