@@ -1,4 +1,5 @@
 #include <aalib.h>
+#include <string.h>
 #include "image.h"
 #include "ui.h"
 #include "config.h"
