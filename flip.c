@@ -59,6 +59,7 @@ static aa_context *context;
 static aa_renderparams *params;
 static char *graph_mem;
 
+int f_getkey(void);
 
 static void dcd_color_64( char *data ) {
 uchar start = 0;
